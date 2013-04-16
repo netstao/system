@@ -1,8 +1,9 @@
 system
 ======
 
-BillRun - Open Source Billing and Fraud System
+<a href="http://www.billrun.net">BillRun</a> - Open Source Billing and Fraud System
 
+http://www.billrun.net
 
 About
 ======
